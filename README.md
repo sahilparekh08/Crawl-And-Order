@@ -46,7 +46,7 @@ Notable libraries used:
 
 ### High-Level Approach
 
-<img width="800" alt="555 architecture" src="images/high_level_approach.png" />
+<img width="650" alt="555 architecture" src="images/high_level_approach.png" />
 
 # Team Members
 
