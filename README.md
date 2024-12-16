@@ -42,7 +42,7 @@ Notable libraries used:
 
 ### System Architecture
 
-<img width="500" alt="image" src="images/arch.jpg" />
+<img width="800" alt="image" src="images/arch.jpg" />
 
 ### High-Level Approach
 
