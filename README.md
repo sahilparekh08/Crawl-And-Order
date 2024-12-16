@@ -42,11 +42,11 @@ Notable libraries used:
 
 ### System Architecture
 
-![System Architecture](images/arch.jpg)
+<img width="900" alt="image" src="images/arch.jpg" />
 
 ### High-Level Approach
 
-![High Level Approach](images/high_level_approach.png)
+<img width="489" alt="555 architecture" src="images/high_level_approach.png" />
 
 # Team Members
 
