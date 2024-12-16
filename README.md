@@ -47,17 +47,3 @@ Notable libraries used:
 ### High-Level Approach
 
 <img width="650" alt="555 architecture" src="images/high_level_approach.png" />
-
-[//]: # (# Team Members)
-
-[//]: # ()
-[//]: # ([Sahil Parekh]&#40;https://www.linkedin.com/in/parekh-sahil/&#41;)
-
-[//]: # ()
-[//]: # ([Ashwin Alaparthi]&#40;https://www.linkedin.com/in/ashwinalaparthi/&#41;)
-
-[//]: # ()
-[//]: # ([Samarth Chandrawat]&#40;https://www.linkedin.com/in/samarthchandrawat/&#41;)
-
-[//]: # ()
-[//]: # ([Peici Qiu]&#40;https://www.linkedin.com/in/peici-qiu/&#41;)
