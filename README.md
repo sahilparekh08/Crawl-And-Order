@@ -43,7 +43,7 @@ Notable libraries used:
 | Crawler       | Indexer       | PageRank       |
 |----------------|----------------|----------------|
 | Intra-server multithreading | Indexed URLs on page content, meta tags and site properties | Optimised memory footprint |
-| URL Depth limiting and priority based sampling to ensure host diversity | Utilised stemming and tokenisation | 2. Implemented per epoch checkpointing |
+| URL Depth limiting and priority based sampling to ensure host diversity | Utilised stemming and tokenisation | Implemented per epoch checkpointing |
 | Integrated host blacklists | Built a batch processing mode | Implemented heuristics to prevent sink URL problem |
 
 
