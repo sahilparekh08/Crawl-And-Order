@@ -25,7 +25,7 @@ Communication between the components is done using the HTTP protocol. All the co
 
 This repository only contains images in compliance with course policies that prevent publishing code to adhere with the academic integrity requirements.
 
-The private repo [CIS-5050-PennCloud](https://github.com/sahilparekh08/CIS-5550-CrawlAndOrder) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access.
+The private repo [CIS-5550-CrawlAndOrder](https://github.com/sahilparekh08/CIS-5550-CrawlAndOrder) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access / questions regarding the implementation.
 
 This project has been tested on Java 21 and 22.
 
